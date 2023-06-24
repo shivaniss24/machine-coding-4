@@ -1,0 +1,40 @@
+.nav-container {
+    width: 30%;
+
+}
+
+.side-section {
+    align-items: left;
+    justify-content: left;
+}
+
+body {
+    background-color: rgb(184, 177, 177);
+}
+
+.sidenav-align {
+    background-color: rgb(184, 177, 177);
+}
+
+.card-icon {
+    font-size: x-large;
+}
+
+.caption {
+    margin-bottom: 25%;
+}
+
+.card-user {
+    border: 0;
+}
+
+.card-user-photo {
+    width: 9%;
+    vertical-align: middle;
+    border-radius: 50%;
+    margin-right: 5%;
+}
+
+.card-user-name {
+    margin-top: 0.7rem;
+}
